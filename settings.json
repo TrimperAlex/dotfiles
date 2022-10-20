@@ -81,4 +81,5 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
     "workbench.editor.untitled.hint": "hidden",
+    "explorer.confirmDragAndDrop": false,
 }

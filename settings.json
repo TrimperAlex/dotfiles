@@ -82,4 +82,5 @@
     "workbench.panel.defaultLocation": "right",
     "workbench.editor.untitled.hint": "hidden",
     "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
 }
